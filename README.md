@@ -1,4 +1,4 @@
-# Xiaomi Refresh Rate Controller
+# Xiaomi Display Refresh Rate Controller
 
 [![Platform](https://img.shields.io/badge/Platform-Android%2014%2B-green.svg)](https://developer.android.com/)
 [![OS](https://img.shields.io/badge/OS-Xiaomi%20HyperOS-orange.svg)](https://www.mi.com/global/)
