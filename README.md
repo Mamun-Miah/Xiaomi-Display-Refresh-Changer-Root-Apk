@@ -1,1 +1,1 @@
-Download the apk from github
+Download the apk from github and install
